@@ -6,7 +6,6 @@ gem 'rails', '3.2.2'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'mysql2'
-gem 'wmd-rails'
 
 group :production do
   gem 'execjs'
